@@ -1,2 +1,2 @@
 # Control_Jupyter
-Control developments using jupyter notebook
+Developments in Control theory using jupyter notebook
